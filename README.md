@@ -1,2 +1,3 @@
 # Olá, Mundo!
- Primeiro Vercionamento do repositório.
+ Primeiro Versionamento do repositório.
+Reposirório criado assistindo Cursoemvideo.com
